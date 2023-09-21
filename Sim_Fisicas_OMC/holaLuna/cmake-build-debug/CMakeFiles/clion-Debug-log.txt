@@ -1,0 +1,41 @@
+C:\Users\mokit\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Desktop\Sim_Fisicas_OMC\holaLuna -B C:\Users\Desktop\Sim_Fisicas_OMC\holaLuna\cmake-build-debug
+-- The C compiler identification is MSVC 19.32.31332.0
+-- The CXX compiler identification is MSVC 19.32.31332.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:7 (find_package):
+  Could not find a package configuration file provided by "box2d" with any of
+  the following names:
+
+    box2dConfig.cmake
+    box2d-config.cmake
+
+  Add the installation prefix of "box2d" to CMAKE_PREFIX_PATH or set
+  "box2d_DIR" to a directory containing one of the above files.  If "box2d"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
+
+Cannot get compiler information:
+	Compiler exited with error code 1: C:\Users\mokit\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -xc++ -g -fpch-preprocess -v -dD -E
+	Using built-in specs.
+	COLLECT_GCC=C:\Users\mokit\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe
+	Target: x86_64-w64-mingw32
+	Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+	Thread model: posix
+	Supported LTO compression algorithms: zlib
+	gcc version 13.1.0 (GCC) 
+	COLLECT_GCC_OPTIONS='-g' '-fpch-preprocess' '-v' '-dD' '-E' '-D' '___CIDR_DEFINITIONS_END' '-shared-libgcc' '-mtune=generic' '-march=nocona'
+	 C:/Users/mokit/AppData/Local/Programs/CLion/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -E -quiet -v -iprefix C:/Users/mokit/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT -D ___CIDR_DEFINITIONS_END C:\Users\mokit\AppData\Local\Temp\compiler-file4623250432632625209 -mtune=generic -march=nocona -fpch-preprocess -g -fworking-directory -dD -dumpbase compiler-file4623250432632625209
+	
+	

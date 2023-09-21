@@ -1,0 +1,3 @@
+C:/Users/Desktop/Sim_Fisicas_OMC/holaMundo/cmake-build-debug/CMakeFiles/holaMundo.dir
+C:/Users/Desktop/Sim_Fisicas_OMC/holaMundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Desktop/Sim_Fisicas_OMC/holaMundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
