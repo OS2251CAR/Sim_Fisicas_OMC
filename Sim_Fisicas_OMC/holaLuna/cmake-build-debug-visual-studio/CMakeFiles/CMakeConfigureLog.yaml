@@ -39,7 +39,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Nota: inclusión del archivo: C:\\Users\\Desktop\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        Nota: inclusión del archivo: C:\\Users\\mokit\\Documents\\GitHub\\Sim_Fisicas_OMC\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Nota: inclusión del archivo: "
   -
@@ -85,7 +85,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -97,7 +97,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Nota: inclusión del archivo: C:\\Users\\Desktop\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        Nota: inclusión del archivo: C:\\Users\\mokit\\Documents\\GitHub\\Sim_Fisicas_OMC\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Nota: inclusión del archivo: "
   -
@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-u6o1hp"
-      binary: "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-u6o1hp"
+      source: "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-fg40o2"
+      binary: "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-fg40o2"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -122,10 +122,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-u6o1hp
+        Change Dir: C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-fg40o2
         
-        Run Build Command(s):C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_f859a && [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_f859a.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_f859a.dir\\ /FS -c C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
-        [2/2] cmd.exe /C "cd . && C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_f859a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f859a.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_f859a.exe /implib:cmTC_f859a.lib /pdb:cmTC_f859a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Desktop\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-u6o1hp && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/mokit/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-u6o1hp/cmTC_f859a.exe -installedDir C:/Users/mokit/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        Run Build Command(s):C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_11ea8 && [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_11ea8.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_11ea8.dir\\ /FS -c C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
+        [2/2] cmd.exe /C "cd . && C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_11ea8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_11ea8.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_11ea8.exe /implib:cmTC_11ea8.lib /pdb:cmTC_11ea8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\mokit\\Documents\\GitHub\\Sim_Fisicas_OMC\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-fg40o2 && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/mokit/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-fg40o2/cmTC_11ea8.exe -installedDir C:/Users/mokit/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
   -
@@ -137,8 +137,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xyqivb"
-      binary: "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xyqivb"
+      source: "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-zn3ljq"
+      binary: "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-zn3ljq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -150,10 +150,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xyqivb
+        Change Dir: C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-zn3ljq
         
-        Run Build Command(s):C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_f5adb && [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_f5adb.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_f5adb.dir\\ /FS -c C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] cmd.exe /C "cd . && C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_f5adb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f5adb.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_f5adb.exe /implib:cmTC_f5adb.lib /pdb:cmTC_f5adb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Desktop\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-xyqivb && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/mokit/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xyqivb/cmTC_f5adb.exe -installedDir C:/Users/mokit/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        Run Build Command(s):C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_34f79 && [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_34f79.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_34f79.dir\\ /FS -c C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] cmd.exe /C "cd . && C:\\Users\\mokit\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_34f79.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_34f79.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_34f79.exe /implib:cmTC_34f79.lib /pdb:cmTC_34f79.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\mokit\\Documents\\GitHub\\Sim_Fisicas_OMC\\Sim_Fisicas_OMC\\holaLuna\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-zn3ljq && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/mokit/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-zn3ljq/cmTC_34f79.exe -installedDir C:/Users/mokit/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
 ...

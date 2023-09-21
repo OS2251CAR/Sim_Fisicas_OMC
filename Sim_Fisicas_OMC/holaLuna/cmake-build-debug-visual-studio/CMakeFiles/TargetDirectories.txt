@@ -1,3 +1,3 @@
-C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/holaLuna.dir
-C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
-C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/holaLuna.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

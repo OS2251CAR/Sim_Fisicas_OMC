@@ -6,7 +6,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeSystem.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -24,11 +24,11 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -92,7 +92,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -164,8 +164,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna/cmake-build-debug-visual-studio",
-		"source" : "C:/Users/Desktop/Sim_Fisicas_OMC/holaLuna"
+		"build" : "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaJupiter/cmake-build-debug",
+		"source" : "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaJupiter"
 	},
 	"version" : 
 	{
