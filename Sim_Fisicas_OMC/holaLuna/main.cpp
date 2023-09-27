@@ -4,7 +4,7 @@
 int main()
 {
     //creacion de mundo
-    b2Vec2 gravity(0.0f, -1.62f);
+    b2Vec2 gravity(0.0f, -1.62f);//Gravedad de la luna
     b2World world(gravity);
     //caracteristicas del cuerpo
     b2BodyDef groundBodyDef;
@@ -28,6 +28,7 @@ int main()
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicbox;
     fixtureDef.density = 1.0f;
+    //Quitamos friccion porque en la luna no hay friccion
 
     body ->CreateFixture(&fixtureDef);
 

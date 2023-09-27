@@ -47,7 +47,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\mokit\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\Desktop\Sim_Fisicas_OMC\holaMundo -BC:\Users\Desktop\Sim_Fisicas_OMC\holaMundo\cmake-build-debug-visual-studio
+  command = C:\Users\mokit\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\mokit\Documents\GitHub\Sim_Fisicas_OMC\Sim_Fisicas_OMC\holaMundo -BC:\Users\mokit\Documents\GitHub\Sim_Fisicas_OMC\Sim_Fisicas_OMC\holaMundo\cmake-build-debug-visual-studio
   description = Re-running CMake...
   generator = 1
 

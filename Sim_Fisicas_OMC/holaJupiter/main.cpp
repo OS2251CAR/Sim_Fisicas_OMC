@@ -4,7 +4,7 @@
 int main()
 {
     //creacion de mundo
-    b2Vec2 gravity(0.0f, -24.79f);
+    b2Vec2 gravity(0.0f, -24.79f);//Gravedad de jupiter
     b2World world(gravity);
     //caracteristicas del cuerpo
     b2BodyDef groundBodyDef;
@@ -19,7 +19,7 @@ int main()
 
     b2BodyDef bodyDef;
     bodyDef.type = b2_dynamicBody;
-    bodyDef.position.Set(0.0f, 15.0f);
+    bodyDef.position.Set(0.0f, 15.0f);//Cambio de posicion
     b2Body* body = world.CreateBody(&bodyDef);
 
     b2PolygonShape dynamicbox;
@@ -27,7 +27,7 @@ int main()
 
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicbox;
-    fixtureDef.density = 15600.0f;
+    fixtureDef.density = 0.015600f;//densidad del Carburo de tungsteno
     fixtureDef.friction = 0.9f;
 
     body ->CreateFixture(&fixtureDef);

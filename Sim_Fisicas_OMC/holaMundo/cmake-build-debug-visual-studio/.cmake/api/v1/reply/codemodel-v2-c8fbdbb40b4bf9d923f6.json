@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Desktop/Sim_Fisicas_OMC/holaMundo/cmake-build-debug-visual-studio",
-		"source" : "C:/Users/Desktop/Sim_Fisicas_OMC/holaMundo"
+		"build" : "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaMundo/cmake-build-debug-visual-studio",
+		"source" : "C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/holaMundo"
 	},
 	"version" : 
 	{
