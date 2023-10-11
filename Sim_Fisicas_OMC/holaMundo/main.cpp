@@ -20,8 +20,7 @@ int main()//Ciclo Main Obligatorio por cada proyecto en C++
     b2BodyDef bodyDef; //Crear un cuerpo
     bodyDef.type = b2_dynamicBody;//Definir tipo de cuerpo
     bodyDef.position.Set(0.0f, 20.0f);//Establecer posicion
-    b2Body* body = world.CreateBody(&bodyDef);//Instanciar al mundo
-
+trian
     b2PolygonShape dynamicbox;//Crear nuestra forma
     dynamicbox.SetAsBox(1.0f,1.0f);//Establecer tamaño de forma
 
