@@ -1,0 +1,3 @@
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/sfmlPrueba/cmake-build-debug/CMakeFiles/sfmlPrueba.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/sfmlPrueba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/sfmlPrueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

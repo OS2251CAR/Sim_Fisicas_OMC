@@ -1,0 +1,13 @@
+C:\Users\mokit\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/mokit/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\mokit\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\mokit\Documents\GitHub\Sim_Fisicas_OMC\Sim_Fisicas_OMC\CodigoJoints -B C:\Users\mokit\Documents\GitHub\Sim_Fisicas_OMC\Sim_Fisicas_OMC\CodigoJoints\cmake-build-debug
+CMake Error: The current CMakeCache.txt directory C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/CodigoJoints/cmake-build-debug/_deps/sfml-subbuild/CMakeCache.txt is different than the directory c:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/CodigoProfe/cmake-build-debug/_deps/sfml-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at C:/Users/mokit/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1610 (message):
+  CMake step for sfml failed: 1
+Call Stack (most recent call first):
+  C:/Users/mokit/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762:EVAL:2 (__FetchContent_directPopulate)
+  C:/Users/mokit/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762 (cmake_language)
+  C:/Users/mokit/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1976 (FetchContent_Populate)
+  CMakeLists.txt:7 (FETCHCONTENT_MAKEAVAILABLE)
+
+
+-- Configuring incomplete, errors occurred!

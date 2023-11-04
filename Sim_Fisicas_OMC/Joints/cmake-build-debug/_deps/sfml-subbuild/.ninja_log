@@ -1,0 +1,21 @@
+# ninja log v5
+1	68	7207826625319507	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d24d089c90b96299
+1	68	7207826625319507	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d24d089c90b96299
+69	14474	7207826769375927	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	53f28ed29319d3ac
+69	14474	7207826769375927	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	53f28ed29319d3ac
+14475	14644	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6e195cad64212efb
+14475	14644	0	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6e195cad64212efb
+14645	14709	7207826771726455	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0a99cc3b5bc8f5c
+14645	14709	7207826771726455	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0a99cc3b5bc8f5c
+14710	14774	7207826772376607	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	42380e5d9cadb225
+14710	14774	7207826772376607	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	42380e5d9cadb225
+14774	14839	7207826773016750	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	e1559d5566bf003b
+14774	14839	7207826773016750	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	e1559d5566bf003b
+14839	14903	7207826773666905	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	27b82d63e750b731
+14839	14903	7207826773666905	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	27b82d63e750b731
+14904	14967	7207826774307041	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f1c1a13ba0776f56
+14904	14967	7207826774307041	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f1c1a13ba0776f56
+14967	15056	7207826775197244	CMakeFiles/sfml-populate-complete	6653c4d45c737162
+14967	15056	7207826775197244	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	6653c4d45c737162
+14967	15056	7207826775197244	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	6653c4d45c737162
+14967	15056	7207826775197244	C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	6653c4d45c737162

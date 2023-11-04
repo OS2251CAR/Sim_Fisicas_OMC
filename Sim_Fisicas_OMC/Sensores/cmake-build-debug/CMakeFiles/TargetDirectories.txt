@@ -1,0 +1,3 @@
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Sensores/cmake-build-debug/CMakeFiles/Sensores.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Sensores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mokit/Documents/GitHub/Sim_Fisicas_OMC/Sim_Fisicas_OMC/Sensores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
