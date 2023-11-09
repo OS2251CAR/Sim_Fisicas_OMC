@@ -237,7 +237,7 @@ private:
     b2Body *body;
 };
 
-class MyContactListener : public b2ContactListener {
+class MyContactListener : public b2ContactListener{
     void BeginContact(b2Contact* contact) override{
         b2Fixture* fixtureA = contact->GetFixtureA();
         b2Fixture* fixtureB = contact->GetFixtureB();
@@ -250,9 +250,10 @@ class MyContactListener : public b2ContactListener {
     }
 };
 
-int main() {
+int main()
+{
     //Configuraciones Globales
-
+    bool sinestonofunciona = true;
     sf::RenderWindow window(sf::VideoMode(1000, 900), "SFML works!");
     b2Vec2 gravity(0.0f, 0.1f);
     b2World world(gravity);
@@ -381,6 +382,7 @@ int main() {
     world.CreateJoint(&jointDefR4);
 
     #pragma endregion
+
     #pragma region molino2
 
     //Distancia
@@ -480,7 +482,6 @@ int main() {
     world.CreateJoint(&jointPulley);
     #pragma endregion
 
-    bool sinestonofunciona = true;
 
     //Game loop
     while (window.isOpen())
